@@ -1,5 +1,5 @@
 Capitulo 1: Introduccion a Git
 Capitulo 2: Flujo de trabajo basico 
 Capitulo 3: Repositorios remotos
-Capitulo 4: Repositorios remotos
-Capitulo 5: Este comando no 
+Capitulo 4: No me rompan las bolas
+Capitulo 5: Este comando no
